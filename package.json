@@ -1,0 +1,9 @@
+{
+  "name": "web-data-collector",
+  "version": "1.0.0",
+  "description": "A skill for collecting and organizing data from public websites.",
+  "author": "chijiao",
+  "license": "MIT",
+  "keywords": ["web-scraping", "data-collection", "automation", "csv", "json"],
+  "skills": ["./"]
+}
